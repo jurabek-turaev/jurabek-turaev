@@ -28,4 +28,4 @@ Welcome to my GitHub profile! I specialize in building scalable backend infrastr
 * **Resume:** [More about me](https://jurabek-turaev.github.io)
 
 ---
-*Always open to discussing backend architecture, search algorithms, or the latest in AI tech!*
+*Always open to discussing backend architecture, algorithms, or the latest in AI tech!*
