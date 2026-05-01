@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I specialize in building scalable backend infrastr
 * **Automation & Scraping:** Playwright, yt-dlp
 
 ### 📫 How to Reach Me
-* **LinkedIn:** [Connect with me on LinkedIn]((https://www.linkedin.com/in/jurabek-turaev-b347302a8/)) 
-* **Portfolio:** [Check out my work](https://jurabek-turaev.github.io)
+* **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/jurabek-turaev-b347302a8/) 
+* **Resume:** [More about me](https://jurabek-turaev.github.io)
 
 ---
 *Always open to discussing backend architecture, search algorithms, or the latest in AI tech!*
